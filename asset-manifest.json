@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Chimaz226/packing-list.git/static/css/main.72b95302.css",
-    "main.js": "/Chimaz226/packing-list.git/static/js/main.57bec866.js",
-    "index.html": "/Chimaz226/packing-list.git/index.html",
-    "main.72b95302.css.map": "/Chimaz226/packing-list.git/static/css/main.72b95302.css.map",
-    "main.57bec866.js.map": "/Chimaz226/packing-list.git/static/js/main.57bec866.js.map"
+    "main.css": "/packing-list/static/css/main.72b95302.css",
+    "main.js": "/packing-list/static/js/main.57bec866.js",
+    "index.html": "/packing-list/index.html",
+    "main.72b95302.css.map": "/packing-list/static/css/main.72b95302.css.map",
+    "main.57bec866.js.map": "/packing-list/static/js/main.57bec866.js.map"
   },
   "entrypoints": [
     "static/css/main.72b95302.css",
